@@ -55,13 +55,6 @@ Enhance supply chain efficiency by optimizing inventory management. This involve
 7. Develop a balanced discount strategy
 8. Focus on maintaining and enhancing the "high value, small number" class performance
 
-## 📌 Project Presentation
-### Video Presentation
-[![ Supply Chain Analysis Presentation](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_dataanalysis-businessintelligence-datadrivendecisions-activity-7222566931113893888-HQeQ/)
-
-### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/slide.pdf)
-
 ## 🧠 Project Learnings
 1. Data Loading and Transformations.
 2. Pivot table analysis.
