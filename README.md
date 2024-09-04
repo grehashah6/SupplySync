@@ -72,4 +72,4 @@ Enhance supply chain efficiency by optimizing inventory management. This involve
 - Microsoft Excel
 
 ## Dashboard
-<img src="https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/dashboard_ss.png">
+<img src="https://github.com/grehashah6/SupplySync/blob/main/dashboard_ss.png">
